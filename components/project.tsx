@@ -55,7 +55,7 @@ export default function Project({
               href={liveUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="group text-sm bg-gray-900 cursor-pointer text-white px-4 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
+              className="group text-sm bg-gray-900 cursor-pointer text-white px-4 py-3 flex items-center gap-2 rounded-full outline-none  hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
             >
               Preview
               <svg
@@ -77,7 +77,7 @@ export default function Project({
               href={sourceUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="group whitespace-nowrap text-sm bg-gray-900 cursor-pointer text-white px-4 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
+              className="group whitespace-nowrap text-sm bg-gray-900 cursor-pointer text-white px-4 py-3 flex items-center gap-2 rounded-full outline-none  hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
             >
               Source code
               <svg
