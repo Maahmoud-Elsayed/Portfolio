@@ -75,7 +75,6 @@ export const projectsData = [
     tags: [
       "React.js",
       "Material UI",
-      "Tailwind",
       "React hook form",
       "typescript",
       "zod",
